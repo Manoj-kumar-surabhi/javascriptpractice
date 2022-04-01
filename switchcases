@@ -1,0 +1,59 @@
+ let age = 18;
+
+// switch(true){
+//     case age<18:
+//     console.log("child");
+//     break;
+//     case  18>age>40:
+//     console.log("adult");
+//     break;
+//     default:
+//         console.log("old");
+// }
+// let days = 0;
+
+// switch(days){
+//      case days==0:
+//          console.log("Monday");
+//          break;
+//     case days==1:
+//          console.log("Tuesday");
+//           break;
+//      case days==2:
+//          console.log("wedsday");
+//           break;
+//     case days==3:
+//            console.log("Thursday");
+//            break;         
+//     case days==4:
+//           console.log("friday");
+//           break;  
+//      default:
+//          console.log("Friday");       
+                     }
+                     let a = 10 ;
+
+// switch(a){
+
+// case 25 || 1:
+//     console.log("a is equal to 25");
+//     break;
+// case 10:
+//     console.log("a is equal to 10");
+//     break;
+// default:
+//     console.log("a is an integer");
+//     break;
+// }
+
+// switch(true){
+//     case a>10:
+//         console.log("a is greater than 10");
+//         break;
+//     case a<10:
+//         console.log("a is lesser than 10");
+//         break;
+//     default:
+//         console.log("a is equal to ten");        
+//         break;
+// }
